@@ -1,0 +1,55 @@
+using System;
+using System.Collections.Generic;
+using System.Text;
+using System.Threading.Tasks;
+
+ namespace Sample
+{
+ class Program
+{
+ static void main (string[]args)
+{
+    int i= 4;
+    double d= 4.0;
+    string s= "Poly Ilaro";
+// declaring additional variables
+
+int i2;
+double d2;
+string s2;
+
+// read and initialize variable
+
+Console.Writeline
+("Enter a integer value");
+i2=Convert.
+Tolnt32(Console.Readline());
+
+Console.Writeline
+("Enter a double value");
+d2=Convert
+Todouble(Console.Readline());
+
+Console.Writeline
+("Enter a string message");
+s2=Console.Readline();
+
+ // printing the sum of both integer value
+
+ int sum = i+i12;
+ Console.Writeline(intsum);
+
+ // printing the sum of the double value
+
+ double doublesum = d+d2
+ Console.Writeline(doublesum);
+
+// concatenating and printing the sting value
+
+Console.Writeline (s+S2)
+
+}
+
+}
+
+}
